@@ -507,7 +507,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Capstone PCB Design V4.kicad_pro",
+    "filename": "Capstone PCB Design V4.5.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -689,8 +689,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Capstone PCB Design V4.kicad_sch",
-        "name": "Capstone PCB Design V4",
+        "filename": "Capstone PCB Design V4.5.kicad_sch",
+        "name": "Capstone PCB Design V4.5",
         "uuid": "bdec4fae-2aa2-4a34-86a7-d07db46beee7"
       }
     ],
